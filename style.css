@@ -1,0 +1,149 @@
+#Syllabus{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.WeekOne{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+
+}
+
+.Intro{
+    margin-left: 20px;
+}
+
+#partOne{
+    display: flex;
+}
+
+#partonetwo{
+    display: flex;
+}
+.Slides{
+    margin-left: 90px; 
+    background-color: rgb(235, 138, 235);
+    border: none;
+}
+.Started{
+    margin-left: 20px;
+    background-color: rgb(89, 89, 244);
+    border: none;
+}
+.Checkoff{
+    margin-left: 20px;
+    background-color: rgb(239, 159, 12);
+    border: none;
+}
+.solution{
+    margin-left: 20px;
+    background-color: rgb(79, 245, 79);
+    border: none;
+}
+
+
+
+#parttwo{
+      display: flex;
+}
+.Weektwo{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+}
+.sentiment{
+    margin-left: 20px;
+}
+#parttwotwo{
+    display: flex;
+}
+
+.solutionBa{
+    margin-left: 20px;
+    background-color: rgb(79, 245, 79);
+    border: none;
+}
+.solutionTF{
+    margin-left: 90px;
+    background-color: rgb(79, 245, 79);
+    background-size: 30%;
+}
+
+
+#partthree{
+    display: flex;
+}
+.Weekthree{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+}
+.Cancer{
+    margin-left: 20px;
+}
+
+
+#partFour{
+    display: flex;
+}
+.WeekFour{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+}
+.Mental{
+     margin-left: 20px;
+}
+
+#partFive{
+    display: flex;
+}
+
+.WeekFive{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+}
+.Algorithm{
+    margin-left: 20px;
+}
+
+
+#partSix{
+    display: flex;
+}
+
+.WeekSix{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+}
+.Open{
+    margin-left: 20px;
+}
+
+#partSeven{
+    display: flex;
+}
+
+.WeekSeven{
+    background-color: rgb(171, 168, 171);
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 20px;
+}
+.CS{
+    margin-left: 20px;
+}
+
+#ThankYou{
+    font-size: 80px;
+    text-align: center;
+}
